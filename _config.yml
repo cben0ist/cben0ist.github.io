@@ -2,7 +2,7 @@
 title: Christophe Benoist
 subtitle: Technical Program Manager
 email: christophe.benoist@gmail.com
-description: I am an experienced Technical Project Manager in the Toronto Area and here are some of my realisations.
+description: I am an experienced Technical Project Manager in the Toronto Area and here are some of my projects and realisations.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://cben0ist.github.io" # the base hostname & protocol for your site
 author: Christophe benoist
@@ -18,15 +18,15 @@ tiles-source: posts # accepts "posts" or "pages"
 tiles-count: 6
 
 # Social settings
-500px_url:
-facebook_url:
-github_url:https://github.com/cben0ist
+500px_url: 
+facebook_url: 
+github_url: https://github.com/cben0ist
 gitlab_url: 
 googleplus_url: 
 instagram_url: https://www.instagram.com/cben0ist/
 linkedin_url: https://www.linkedin.com/in/christophebenoist/
-pinterest_url:
-slack_url:
+pinterest_url: 
+slack_url: 
 twitter_url: https://twitter.com/CBen0ist
 
 # Build settings
