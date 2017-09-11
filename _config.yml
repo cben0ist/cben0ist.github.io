@@ -1,8 +1,8 @@
 # Site settings
 title: Christophe Benoist
-subtitle: Technical Program Manager
+subtitle: Technical Program Manager, Grand Toronto Area
 email: christophe.benoist@gmail.com
-description: I am an experienced Technical Project Manager in the Toronto Area and here are some of my projects and realisations.
+description: I am an experienced Technical Project Manager in the Toronto Area and here are some of my projects, realisations and experiences.
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://cben0ist.github.io" # the base hostname & protocol for your site
 author: Christophe benoist
@@ -11,7 +11,7 @@ city: Toronto
 state: "ON"
 zip_code: M6K2V9
 country: Canada
-phone: 
+phone: Phone? Where we're going, we don't need phones.
 
 # Homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
