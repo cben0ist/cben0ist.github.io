@@ -9,4 +9,6 @@ author: Christophe Benoist
 
 I am an experienced Technical Project Manager living in Toronto, Canada. Here are some of my projects, realisations and experiences.
 
-For a more detailed resume, check my [LinkedIn profile](https://www.linkedin.com/in/christophebenoist/).
+For a more detailed resume, check my <a href="https://www.linkedin.com/in/christophebenoist/" target="_blank">LinkedIn profile</a>.
+
+To contact me, feel free to use the form or the email available in the bottom of this page.
