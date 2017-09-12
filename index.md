@@ -1,8 +1,8 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Christophe, I am a Technical Project Manager'
-description: Technical Program Manager, Grand Toronto Area
+landing-title: 'Hi, my name is Christophe'
+description: Technical Program Manager
 image: null
 author: Christophe Benoist
 ---

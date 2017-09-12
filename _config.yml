@@ -6,7 +6,7 @@ description: Technical Program Manager
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://cben0ist.github.io" # the base hostname & protocol for your site
 author: Christophe benoist
-street_address: 128 Lansdowne Ave
+street_address: null
 city: Toronto
 state: "ON"
 zip_code: M6K2V9
