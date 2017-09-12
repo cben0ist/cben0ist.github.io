@@ -11,7 +11,7 @@ city: Toronto
 state: "ON"
 zip_code: M6K2V9
 country: Canada
-phone: Phone? Where we're going, we don't need phones.
+phone: Phone #? Where we're going, we don't need phone #.
 
 # Homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
