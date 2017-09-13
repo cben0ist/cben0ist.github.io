@@ -7,7 +7,7 @@ image: null
 author: Christophe Benoist
 ---
 
-I am an experienced Technical Project Manager and Scrum Master living in Toronto, Canada. Here are some of my projects, realisations and experiences.
+I am an experienced **Technical Program and Project Manager** and **Scrum Master** living in Toronto, Canada. Here are some of my projects, realisations and experiences.
 
 For a more detailed resume, check my <a href="https://www.linkedin.com/in/christophebenoist/" target="_blank">LinkedIn profile</a>.
 
