@@ -7,9 +7,15 @@ image: null
 author: Christophe Benoist
 ---
 
-I am an experienced **Technical Program and Project Manager** and **Scrum Master** living in Toronto, Canada. Here are some of my projects, realisations and experiences.
+<div class="4u$ 12u$(medium)">
+    <h3>Technical Program and Project Manager</h3>
+    <p>I am an experienced **TPM** living in Toronto, Canada. Here are some of my projects, realisations and experiences.</p>
+</div>
 
-I am a **Certified Scrum Master** from *Scrum Alliance*. I had the opportunity to successfully apply these agile principles on many projects with various teams and organizations.
+<div class="4u$ 12u$(medium)">
+    <h3>Scrum Master</h3>
+    <p>I am a **Certified Scrum Master** from *Scrum Alliance*. I had the opportunity to successfully apply these agile principles on many projects with various teams and organizations.</p>
+</div>
 
 For a more detailed resume, check my <a href="https://www.linkedin.com/in/christophebenoist/" target="_blank">LinkedIn profile</a>.
 
