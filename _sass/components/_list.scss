@@ -18,7 +18,7 @@
 
 	ul {
 		list-style: disc;
-		margin: 0 0 _size(element-margin) 0;
+		margin: -_size(element-margin) 0 _size(element-margin) 0;
 		padding-left: 1em;
 
 		li {
@@ -132,10 +132,6 @@
 			}
 		}
 	}
-
-    p + ul {
-        margin-top: _size(element-margin) !important;
-    }
 
 	dl {
 		margin: 0 0 _size(element-margin) 0;
