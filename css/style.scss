@@ -3,8 +3,5 @@
 
 @import "{{ site.theme }}";
 ul {
-    margin: -2em 0 0 0;
-}
-p {
-    p: 0 0 0 0;
+    margin: -(_size(element-margin) 0 0 0;
 }
