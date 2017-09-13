@@ -13,5 +13,5 @@ I am an experienced Technical Project Manager living in Toronto, Canada. Here ar
 I am also a Certified Scrum Master from Scrum Alliance. I apply the agile principles on every project I am participating in. I have been working with successful agile teams (Scrum, Kanban, XP...) with various organizations and environments.
 
 <h4>Contact Me</h4>
-You need a TPM to handle some of your projects? Email me at <a href="mailto:christophe.benoist@gmail.com">christophe.benoist@gmail.com</a> or use the form available at the bottom of this page.
+Looking for a TPM to handle some of your complex software development projects? Email me at <a href="mailto:christophe.benoist@gmail.com">christophe.benoist@gmail.com</a> or use the form available at the bottom of this page.
 <br>For a more detailed resume, check my <a href="https://www.linkedin.com/in/christophebenoist/" target="_blank">LinkedIn profile</a>.
