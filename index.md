@@ -7,7 +7,7 @@ image: null
 author: Christophe Benoist
 ---
 <h4>Technical Project Manager</h4>
-<p>I am an experienced TPM living in Toronto, Canada. Here are some of my projects, realisations and experiences.</p>
+<p>I am an experienced Technical Project Manager living in Toronto, Canada. Here are some of my projects, realisations and experiences.</p>
 
 <h4>Scrum Master</h4>
 <p>I am a Certified Scrum Master from Scrum Alliance. I succesfully apply the agile principles on every projects I have been participating, with various teams and organizations.</p>
