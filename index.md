@@ -14,5 +14,4 @@ author: Christophe Benoist
 
 <h3>Contact Me</h3>
 For a more detailed resume, check my <a href="https://www.linkedin.com/in/christophebenoist/" target="_blank">LinkedIn profile</a>.
-
-To contact me, feel free to use the form and the email address available at the bottom of this page.
+<br>To contact me, you can email me at <a href="mailto:christophe.benoist@gmail.com">christophe.benoist@gmail.com</a> or use the form available at the bottom of this page.
