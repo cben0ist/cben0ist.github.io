@@ -59,6 +59,10 @@
 		margin: 0 0 _size(element-margin) 0;
 	}
 
+    p + ul {
+        margin-top: _size(element-margin) !important;
+    }
+
 	h1, h2, h3, h4, h5, h6 {
 		color: _palette(fg-bold);
 		font-weight: _font(weight-bold);
@@ -171,7 +175,3 @@
 	.align-right {
 		text-align: right;
 	}
-
-p + ul {
-    margin-top: _size(element-margin);
-}
