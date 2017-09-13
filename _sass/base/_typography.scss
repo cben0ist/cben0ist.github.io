@@ -171,3 +171,7 @@
 	.align-right {
 		text-align: right;
 	}
+
+p + ul {
+    margin-top: _size(element-margin);
+}
