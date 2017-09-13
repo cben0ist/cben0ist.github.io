@@ -1,7 +1,7 @@
 ---
 layout: home
 title: Home
-landing-title: 'Hi, my name is Christophe'
+landing-title: 'Hi! My name is Christophe'
 description: Technical Project Manager and Scrum Master
 image: null
 author: Christophe Benoist
