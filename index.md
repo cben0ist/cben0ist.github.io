@@ -13,5 +13,5 @@ author: Christophe Benoist
 <p>I am a Certified Scrum Master from Scrum Alliance. I had the opportunity to successfully apply these agile principles on many projects with various teams and organizations.</p>
 
 <h4>Contact Me</h4>
-To contact me, you can email me at <a href="mailto:christophe.benoist@gmail.com">christophe.benoist@gmail.com</a> or use the form available at the bottom of this page.
+You need a TPM to handle some of your projects? Email me at <a href="mailto:christophe.benoist@gmail.com">christophe.benoist@gmail.com</a> or use the form available at the bottom of this page.
 <br>For a more detailed resume, check my <a href="https://www.linkedin.com/in/christophebenoist/" target="_blank">LinkedIn profile</a>.
