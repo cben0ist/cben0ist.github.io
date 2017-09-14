@@ -2,9 +2,7 @@
 ---
 
 @import "{{ site.theme }}";
-	@include skel-breakpoints((
-		small: '(max-width: 800px)',
-	));
+
 
 ul {
     margin: -(_size(element-margin)) 0 _size(element-margin) 0;
